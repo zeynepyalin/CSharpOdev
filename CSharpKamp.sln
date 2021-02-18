@@ -19,7 +19,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Encapsulation", "Encapsulat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecapDemo1", "RecapDemo1\RecapDemo1.csproj", "{39C32742-8654-4CB5-8956-DBAF4FB3A88A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfacesDemo", "InterfacesDemo\InterfacesDemo.csproj", "{35F2DF10-F511-414C-9BCA-70FF019B39C6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterfacesDemo", "InterfacesDemo\InterfacesDemo.csproj", "{35F2DF10-F511-414C-9BCA-70FF019B39C6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbstractClasses", "AbstractClasses\AbstractClasses.csproj", "{5BCD900B-6AC4-4BBA-A4B6-978C8424561F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameProject", "GameProject\GameProject.csproj", "{EECF5567-E439-4048-8C99-5120A91CC179}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +67,14 @@ Global
 		{35F2DF10-F511-414C-9BCA-70FF019B39C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{35F2DF10-F511-414C-9BCA-70FF019B39C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{35F2DF10-F511-414C-9BCA-70FF019B39C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BCD900B-6AC4-4BBA-A4B6-978C8424561F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BCD900B-6AC4-4BBA-A4B6-978C8424561F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BCD900B-6AC4-4BBA-A4B6-978C8424561F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BCD900B-6AC4-4BBA-A4B6-978C8424561F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EECF5567-E439-4048-8C99-5120A91CC179}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EECF5567-E439-4048-8C99-5120A91CC179}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EECF5567-E439-4048-8C99-5120A91CC179}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EECF5567-E439-4048-8C99-5120A91CC179}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
